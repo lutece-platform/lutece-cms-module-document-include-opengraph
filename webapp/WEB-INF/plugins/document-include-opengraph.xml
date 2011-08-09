@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?><plug-in>
+	<name>document-include-opengraph</name>
+	<class>fr.paris.lutece.portal.service.plugin.PluginDefaultImplementation</class>
+	<version>0.0.4</version>
+	<documentation/>
+	<installation/>
+	<changes/>
+	<user-guide/>
+	<description>document-include-opengraph.plugin.description</description>
+	<provider>document-include-opengraph.plugin.provider</provider>
+	<provider-url>http://dev.lutece.paris.fr/</provider-url>
+	<icon-url>images/admin/skin/plugins/html/modules/rest/html-rest.png</icon-url>
+	<copyright/>
+	<db-pool-required>0</db-pool-required>
+    <page-include-services>
+        <page-include-service>
+            <page-include-service-id>documentopengraph</page-include-service-id>
+            <page-include-service-class>fr.paris.lutece.plugins.documentincludeopengraph.web.DocumentOpenGraphInclude</page-include-service-class>
+        </page-include-service>
+    </page-include-services>
+</plug-in>
