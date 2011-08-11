@@ -43,9 +43,10 @@
 		<jiraComponentId>10036</jiraComponentId>
 	</properties>
 
-  <scm>
-    <connection>scm:svn:http://dev.lutece.paris.fr/svn/lutece/portal/tags/module-document-include-opengraph-0.0.5</connection>
-    <developerConnection>scm:svn:http://dev.lutece.paris.fr/svn/lutece/portal/tags/module-document-include-opengraph-0.0.5</developerConnection>
-    <url>scm:svn:http://dev.lutece.paris.fr/svn/lutece/portal/tags/module-document-include-opengraph-0.0.5</url>
-  </scm>
+	<scm>
+        <connection>scm:svn:http://dev.lutece.paris.fr/svn/lutece/portal/trunk/plugins/cms/module-document-include-opengraph</connection>
+        <developerConnection>scm:svn:https://dev.lutece.paris.fr/svn/lutece/portal/trunk/plugins/cms/module-document-include-opengraph</developerConnection>
+        <url>http://dev.lutece.paris.fr/viewvc/lutece/portal/trunk/plugins/cms/module-document-include-opengraph</url>
+    </scm>
+
 </project>
