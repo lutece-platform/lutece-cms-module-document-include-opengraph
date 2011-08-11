@@ -10,7 +10,7 @@
 	<groupId>fr.paris.lutece.plugins</groupId>
 	<artifactId>module-document-include-opengraph</artifactId>
 	<packaging>lutece-plugin</packaging>
-	<version>0.0.5</version>
+	<version>0.0.5-SNAPSHOT</version>
 	<name>Lutece document include opengraph module</name>
 
 	<repositories>
