@@ -10,7 +10,7 @@
 	<groupId>fr.paris.lutece.plugins</groupId>
 	<artifactId>module-document-include-opengraph</artifactId>
 	<packaging>lutece-plugin</packaging>
-	<version>0.0.5-SNAPSHOT</version>
+	<version>0.0.5</version>
 	<name>Lutece document include opengraph module</name>
 
 	<repositories>
@@ -42,4 +42,10 @@
 		<jiraProjectName>LUTECE</jiraProjectName>
 		<jiraComponentId>10036</jiraComponentId>
 	</properties>
+
+  <scm>
+    <connection>scm:svn:http://dev.lutece.paris.fr/svn/lutece/portal/tags/module-document-include-opengraph-0.0.5</connection>
+    <developerConnection>scm:svn:http://dev.lutece.paris.fr/svn/lutece/portal/tags/module-document-include-opengraph-0.0.5</developerConnection>
+    <url>scm:svn:http://dev.lutece.paris.fr/svn/lutece/portal/tags/module-document-include-opengraph-0.0.5</url>
+  </scm>
 </project>
