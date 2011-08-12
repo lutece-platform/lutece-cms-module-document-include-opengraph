@@ -39,8 +39,8 @@
 
 	<properties>
 		<componentName>document-include-opengraph</componentName>
-		<jiraProjectName>LUTECE</jiraProjectName>
-		<jiraComponentId>10036</jiraComponentId>
+		<jiraProjectName>DOCUMENTOPENGRAPH</jiraProjectName>
+		<jiraComponentId>10578</jiraComponentId>
 	</properties>
 
 	<scm>
