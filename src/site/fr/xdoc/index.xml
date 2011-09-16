@@ -5,6 +5,7 @@
 	</properties>
 	<body>
 		<section name="Description">
+			<subsection name="Introduction">
 			<p>Include open graph tags (aka facebook) in document pages.</p>
 			<p>
 				Add the following code to page_frameset.html
@@ -12,6 +13,7 @@
 					${doc_og?default("<!-- module-doc-include-opengraph not installed -->")}
 				</pre>
 			</p>
+			</subsection>
 		</section>
 	</body>
 </document>
